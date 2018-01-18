@@ -21,7 +21,7 @@
   "keywords": ["aws", "sqs", "producer", "queue"],
   "homepage": "https://github.com/bbc/sqs-producer",
   "dependencies": {
-    "aws-sdk": "^2.152.0",
+    "aws-sdk": "^2.184.0",
     "lodash": "^4.17.4"
   },
   "devDependencies": {
